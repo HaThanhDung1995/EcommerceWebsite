@@ -1,0 +1,12 @@
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.deps.json
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.runtimeconfig.json
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.runtimeconfig.dev.json
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.dll
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\bin\Debug\netcoreapp2.0\ShopApplication.pdb
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.csprojAssemblyReference.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.csproj.CoreCompileInputs.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.AssemblyInfoInputs.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.AssemblyInfo.cs
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.dll
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication\obj\Debug\netcoreapp2.0\ShopApplication.pdb

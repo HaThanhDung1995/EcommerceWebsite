@@ -1,0 +1,9 @@
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\bin\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.deps.json
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\bin\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.dll
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.csprojAssemblyReference.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.csproj.CoreCompileInputs.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.AssemblyInfoInputs.cache
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.AssemblyInfo.cs
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\bin\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.pdb
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.dll
+E:\Web_Developer\Practice\BackEnd\dotnetcore\ShopApplication\ShopApplication.Application.Dapper\obj\Debug\netcoreapp2.1\ShopApplication.Application.Dapper.pdb
